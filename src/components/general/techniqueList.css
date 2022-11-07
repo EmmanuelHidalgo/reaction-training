@@ -1,0 +1,10 @@
+.no-techniques-set {
+    padding-top: 20px;
+}
+
+.technique-list-container {
+    padding-top: 20px;
+    height: 400px;
+    overflow: hidden;
+    overflow: scroll;
+}
